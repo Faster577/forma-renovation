@@ -1,0 +1,425 @@
+{
+  "Meta": {
+    "homeTitle": "FORMA. — Rekonstrukce bytů v Praze",
+    "homeDescription": "Demonstrační web studia FORMA. — ukázkové rekonstrukce bytů v Praze od návrhu po předání na klíč.",
+    "homeOgDescription": "Demonstrační portfolio: prostor, ve kterém chcete žít. Kompletní rekonstrukce bytů od návrhu po předání.",
+    "portfolioTitle": "Realizace — FORMA.",
+    "portfolioDescription": "Ukázkové projekty rekonstrukcí bytů v Praze. Demonstrační portfolio studia FORMA.",
+    "inquiryTitle": "Poptávka — FORMA.",
+    "inquiryDescription": "Demonstrační formulář poptávky rekonstrukce. Popište ukázkový projekt a ověřte validaci — odesílání e-mailu je volitelné.",
+    "projectTitle": "{title} — FORMA.",
+    "notFoundTitle": "Stránka nenalezena — FORMA."
+  },
+  "Common": {
+    "brandHome": "FORMA. Domů",
+    "consultation": "Konzultace",
+    "consultationLong": "Nezávazná konzultace",
+    "demoNotice": "Demonstrační obsah: fotografie jsou licencované stock snímky interiérů. Nejde o dokumentaci skutečných zakázek studia FORMA.",
+    "optional": "volitelné",
+    "requiredMark": "*",
+    "backToPortfolio": "Zpět na realizace",
+    "viewAllProjects": "Všechny realizace",
+    "openMenu": "Otevřít menu",
+    "closeMenu": "Zavřít menu",
+    "mainNav": "Hlavní navigace",
+    "mobileNav": "Mobilní navigace",
+    "languageSwitcher": "Volba jazyka",
+    "currentLanguage": "aktuální jazyk",
+    "skipToContent": "Přeskočit na obsah"
+  },
+  "Nav": {
+    "about": "O nás",
+    "services": "Služby",
+    "portfolio": "Realizace",
+    "process": "Proces",
+    "contact": "Kontakt"
+  },
+  "Languages": {
+    "cs": "CZ",
+    "ru": "RU",
+    "en": "EN"
+  },
+  "Hero": {
+    "headline": "Prostor, ve kterém chcete žít.",
+    "subhead": "Kompletní rekonstrukce bytů v Praze a okolí — od citlivého návrhu po řemeslné provedení na klíč.",
+    "ctaPrimary": "Domluvit schůzku",
+    "ctaSecondary": "Prohlédnout realizace",
+    "scrollDown": "Posunout dolů",
+    "imageAlt": "Světlý obývací pokoj po rekonstrukci s velkým oknem a přírodními materiály"
+  },
+  "About": {
+    "eyebrow": "O společnosti",
+    "title": "Ateliér rekonstrukcí s důrazem na celek.",
+    "intro": "FORMA. vznikla z přesvědčení, že kvalitní rekonstrukce bytu není jen součet prací — je to kompozice světla, materiálů a každodenního pohybu.",
+    "p1": "Navrhujeme a realizujeme rekonstrukce městských bytů v Praze a Středočeském kraji. Spojujeme architektonický cit s přesnou stavební koordinací, aby výsledek působil přirozeně — a vydržel.",
+    "p2": "Každý projekt vedeme osobně. Od prvního zaměření po předání klíčů máte jedno studio, jeden tým a jasný plán.",
+    "caption": "Pracujeme s autentickými materiály a klidnou paletou, která respektuje charakter domu i život jeho obyvatel.",
+    "imageAlt": "Moderní obývací prostor s dřevěnými povrchy a měkkým denním světlem",
+    "stats": {
+      "projects": {
+        "value": "12",
+        "label": "ukázkových bytů"
+      },
+      "years": {
+        "value": "1",
+        "label": "studium procesu"
+      },
+      "contact": {
+        "value": "3",
+        "label": "jazykové verze"
+      }
+    },
+    "statsNote": "Údaje slouží k prezentaci webu — nejde o ověřené reference reálného studia."
+  },
+  "Services": {
+    "eyebrow": "Služby",
+    "title": "Rekonstrukce vedená od první skici po poslední detail.",
+    "description": "Čtyři oblasti, ve kterých držíme celý proces — návrh, materiál, řemeslo i termín.",
+    "items": {
+      "kompletni": {
+        "title": "Kompletní rekonstrukce",
+        "description": "Od prvního zaměření po předání bytu na klíč. Koordinujeme řemesla, termíny i detaily, abyste měli klidný průběh stavby."
+      },
+      "koupelny": {
+        "title": "Kuchyně a koupelny",
+        "description": "Prostorově chytrá řešení s důrazem na materiál, světlo a každodenní komfort. Navrhujeme i realizujeme."
+      },
+      "dispozice": {
+        "title": "Dispoziční změny",
+        "description": "Otevřené dispozice, nové průhledy a lepší tok denního světla. Pracujeme s architekturou bytu, ne proti ní."
+      },
+      "design": {
+        "title": "Design a materiály",
+        "description": "Výběr povrchů, barev a ateliérových detailů, které drží celek pohromadě — od podlah po úchytky."
+      }
+    }
+  },
+  "HomePortfolio": {
+    "eyebrow": "Realizace",
+    "title": "Prostory, které už žijí svým vlastním životem.",
+    "description": "Tři ukázkové projekty — různé velikosti, stejný přístup k detailu a atmosféře.",
+    "detailLink": "Detail projektu"
+  },
+  "Process": {
+    "eyebrow": "Proces",
+    "title": "Čtyři kroky od první schůzky po předání bytu.",
+    "description": "Přehledný postup bez zbytečné administrativy. Vždy víte, co se děje a proč.",
+    "steps": {
+      "01": {
+        "title": "Konzultace",
+        "description": "Projednáme vaše představy, dispozici bytu a realistický rozpočet. Společně nastavíme směr projektu."
+      },
+      "02": {
+        "title": "Návrh",
+        "description": "Připravíme dispozici, materiálové řešení a přesný plán prací. Vše schvalujete před zahájením stavby."
+      },
+      "03": {
+        "title": "Realizace",
+        "description": "Řemeslné týmy pracují podle harmonogramu. Máte jedno kontaktní místo a průběžné fotografie postupu."
+      },
+      "04": {
+        "title": "Předání",
+        "description": "Dokončíme detaily, provedeme kontrolu a předáme byt připravený k životu — včetně dokumentace."
+      }
+    }
+  },
+  "Contact": {
+    "eyebrow": "Kontakt",
+    "title": "Pojďme navrhnout prostor, který bude sedět právě vám.",
+    "description": "Nezávazná konzultace u vás doma nebo v našem studiu. Probereme dispozici, rozpočet i možné termíny zahájení.",
+    "ctaPrimary": "Odeslat poptávku",
+    "ctaSecondary": "Napsat e-mail",
+    "studioLabel": "Studio",
+    "studioAddress1": "Vodičkova 28",
+    "studioAddress2": "110 00 Praha 1",
+    "phoneLabel": "Telefon",
+    "emailLabel": "E-mail"
+  },
+  "Footer": {
+    "tagline": "Studio kompletních rekonstrukcí bytů. Praha a okolí — návrh, realizace a dohled nad každým detailem.",
+    "navLabel": "Navigace",
+    "studioLabel": "Studio",
+    "hours": "Po–Pá 9:00–18:00",
+    "rights": "© 2026 FORMA. Všechna práva vyhrazena.",
+    "fictional": "Fiktivní studio pro demonstrační účely."
+  },
+  "PortfolioPage": {
+    "eyebrow": "Portfolio",
+    "title": "Naše realizace",
+    "intro": "Výběr demonstračních projektů rekonstrukcí bytů napříč Prahou — od secesních činžáků po soudobé loftové dispozice. Každý příběh ukazuje jiný typ zásahu, stejný důraz na celek, světlo a detail."
+  },
+  "ProjectPage": {
+    "back": "Zpět na realizace",
+    "about": "O projektu",
+    "gallery": "Galerie",
+    "galleryTitle": "Interiéry a detaily",
+    "beforeAfterEyebrow": "Před / po",
+    "beforeAfterTitle": "Ilustrativní srovnání atmosféry",
+    "beforeLabel": "Před — ilustrace",
+    "afterLabel": "Po — ilustrace",
+    "challengesEyebrow": "Výzvy",
+    "challengesTitle": "Co bylo potřeba vyřešit",
+    "solutionsEyebrow": "Řešení",
+    "solutionsTitle": "Jak jsme k tomu přistoupili",
+    "ctaEyebrow": "Konzultace",
+    "ctaTitle": "Chcete podobný přístup jako u projektu {title}?",
+    "ctaDescription": "Domluvte si nezávaznou konzultaci. Probereme dispozici, možnosti materiálů i realistický rámec rozpočtu — bez závazku.",
+    "ctaPrimary": "Nezávazná konzultace",
+    "ctaSecondary": "Zpět na realizace",
+    "relatedEyebrow": "Další projekty",
+    "relatedTitle": "Pokračujte v prohlížení",
+    "metaLocation": "Lokalita",
+    "metaType": "Typ zásahu",
+    "metaArea": "Podlahová plocha",
+    "metaYear": "Rok (demo)",
+    "yearDemo": "{year} · ukázková data",
+    "showPhoto": "Zobrazit fotografii {index}: {alt}"
+  },
+  "ProjectTypes": {
+    "complete": "Kompletní rekonstrukce",
+    "layout": "Dispoziční změny",
+    "kitchen_bath": "Kuchyně a koupelny",
+    "design": "Design a materiály"
+  },
+  "Projects": {
+    "byt-vinohrady": {
+      "title": "Byt Vinohrady",
+      "district": "Vinohrady",
+      "location": "Praha 2 — Vinohrady",
+      "summary": "Citlivá obnova secesního bytu s otevřeným obytným prostorem a klidnou materiálovou paletou.",
+      "description": "Ukázkový projekt kompletní rekonstrukce bytu v činžovním domě na Vinohradech. Cílem bylo zachovat charakter původních stropů a oken a zároveň vytvořit soudobý, vzdušný interiér vhodný pro každodenní život. Dispozice se otevřela směrem k dennímu světlu, technické rozvody se sjednotily a materiálová paleta zůstala střídmá — dub, kámen a jemné omítky.",
+      "heroAlt": "Světlý obývací pokoj bytu na Vinohradech po rekonstrukci",
+      "gallery": [
+        "Otevřený obytný prostor s jídelním stolem",
+        "Kuchyňská linka s kamennou pracovní deskou",
+        "Ložnice s textilními závěsy a měkkým světlem",
+        "Koupelna s velkoformátovým obkladem",
+        "Detail úložného prostoru a stolního osvětlení"
+      ],
+      "beforeAlt": "Ilustrativní stav prostoru před úpravou",
+      "afterAlt": "Ilustrativní návrhová atmosféra po úpravě",
+      "beforeAfterCaption": "Ilustrativní srovnání materiálů a světla — demonstrační fotografie, nikoli dokumentace konkrétní stavby.",
+      "challenges": [
+        "Zachovat původní výšku stropů při nové skladbě podlah a skrytých rozvodech.",
+        "Otevřít dispozici bez ztráty akustického soukromí ložnice.",
+        "Skloubit historické detaily domu se soudobým technickým standardem."
+      ],
+      "solutions": [
+        "Nízké podlahové skladby a pečlivě vedené instalace ve stávajících jádrech.",
+        "Posuvné dveřní křídlo a jemné zonování nábytkem místo těžkých příček.",
+        "Obnova okenních špalet a sjednocení povrchů do jedné klidné palety."
+      ]
+    },
+    "loft-karlin": {
+      "title": "Loft Karlín",
+      "district": "Karlín",
+      "location": "Praha 8 — Karlín",
+      "summary": "Industriální loft s teplým interiérem, ateliérovým světlem a pečlivě skrytou technikou.",
+      "description": "Rozsáhlý loftový byt v Karlíně vyžadoval nové členění zón: práce, odpočinek i společenské bydlení v jednom otevřeném objemu. Návrh pracuje s výškou prostoru, teplými textiliemi a kontrastem hladkých ploch vůči industriálnímu charakteru domu. Technika je skrytá, světlo řízené ve vrstvách.",
+      "heroAlt": "Otevřený loftový obytný prostor v Karlíně",
+      "gallery": [
+        "Obývací zóna loftu s vysokým stropem",
+        "Kuchyňský ostrůvek v otevřené dispozici",
+        "Spací galerie a textilní závěsy",
+        "Koupelna s betonovou estetikou",
+        "Pracovní kout s denním světlem",
+        "Detail sedací soupravy a osvětlení"
+      ],
+      "challenges": [
+        "Zkrotit akustiku velkého otevřeného prostoru.",
+        "Vytvořit intimní spací zónu bez uzavření celého loftu.",
+        "Skrytě umístit klimatizaci a silové rozvody."
+      ],
+      "solutions": [
+        "Textilní závěsy, koberec a akustické obklady ve vybraných stěnách.",
+        "Polootevřená spací nika s jemným oddělením světelných scén.",
+        "Technická šachta a nábytkové sestavy navržené zároveň jako úložný systém."
+      ]
+    },
+    "apartman-mala-strana": {
+      "title": "Apartmán Malá Strana",
+      "district": "Malá Strana",
+      "location": "Praha 1 — Malá Strana",
+      "summary": "Kompaktní bydlení s důrazem na řemeslo, úložný prostor a atmosféru historického domu.",
+      "description": "Menší apartmán v historickém jádru města ukazuje, že omezená metráž nemusí znamenat kompromis v atmosféře. Pracovali jsme s vestavěným nábytkem na míru, světlými povrchy a pečlivým rytmem úložných prvků. Každý detail má funkci — a přitom působí klidně.",
+      "heroAlt": "Kompaktní obývací pokoj apartmánu na Malé Straně",
+      "gallery": [
+        "Obývací zóna s vestavěnou knihovnou",
+        "Kompaktní kuchyň s úložným systémem",
+        "Ložnice s textilním čelem postele",
+        "Koupelna s jemným kamenem"
+      ],
+      "challenges": [
+        "Získat dostatek úložného prostoru bez vizuálního zahlcení.",
+        "Zachovat pocit vzdušnosti v hluboké dispozici.",
+        "Sjednotit různé výšky podlah historického domu."
+      ],
+      "solutions": [
+        "Celostěnové skříně v barvě stěn a skryté madla.",
+        "Světlé povrchy, zrcadlové plochy a kontinuální podlaha.",
+        "Vyrovnání podlah a jednotný obvodový sokl v celém bytě."
+      ]
+    },
+    "byt-zizkov": {
+      "title": "Byt Žižkov",
+      "district": "Žižkov",
+      "location": "Praha 3 — Žižkov",
+      "summary": "Proměna panelového bytu v světlý domov s logickou dispozicí a praktickou kuchyní.",
+      "description": "Typický žižkovský byt prošel kompletní obnovou: nové jádro, kuchyň, povrchy i osvětlení. Důraz byl na praktický provoz rodiny, dostatek denního světla a materiály, které snesou každodenní zátěž. Výsledek je civilní, teplý a snadno obyvatelný.",
+      "heroAlt": "Obývací pokoj bytu na Žižkově po kompletní rekonstrukci",
+      "gallery": [
+        "Obytná zóna s pohovkou a stolním světlem",
+        "Kuchyň s jídelním barovým posezením",
+        "Ložnice s vestavěnými skříněmi",
+        "Koupelna s walk-in sprchou",
+        "Chodba s úložným nábytkem"
+      ],
+      "beforeAlt": "Ilustrativní neutrální stav před úpravou",
+      "afterAlt": "Ilustrativní světlý interiér po úpravě",
+      "beforeAfterCaption": "Ilustrativní před/po — stock fotografie pro demonstrační portfolio, nikoli záznam reálné stavby FORMA.",
+      "challenges": [
+        "Modernizovat bytové jádro v panelové konstrukci.",
+        "Propojit kuchyň s obývákem bez ztráty pracovních ploch.",
+        "Zajistit kvalitní odvětrání koupelny a kuchyně."
+      ],
+      "solutions": [
+        "Nové příčky lehké konstrukce a přesné zaměření instalací.",
+        "Ostrůvek a lineární linka s kontinuální pracovní deskou.",
+        "Nucené větrání napojené na stávající šachty domu."
+      ]
+    },
+    "byt-smichov": {
+      "title": "Byt Smíchov",
+      "district": "Smíchov",
+      "location": "Praha 5 — Smíchov",
+      "summary": "Cílená obnova mokrého provozu a kuchyně s důrazem na materiál a denní světlo.",
+      "description": "Majitelé chtěli ponechat celkovou dispozici, ale výrazně pozvednout kvalitu kuchyně a koupelen. Navrhli jsme nové materiálové skladby, skryté úložné systémy a jemné osvětlení. Zásah je koncentrovaný — a přesto mění pocit celého bytu.",
+      "heroAlt": "Kuchyň bytu na Smíchově s kamennou deskou",
+      "gallery": [
+        "Kuchyňská linka s ostrůvkem",
+        "Hlavní koupelna s vanou",
+        "Hostovská koupelna se sprchou",
+        "Jídelní kout navazující na kuchyň",
+        "Detail baterie a kamenného obkladu"
+      ],
+      "beforeAlt": "Ilustrativní starší kuchyňský charakter",
+      "afterAlt": "Ilustrativní soudobá kuchyňská atmosféra",
+      "beforeAfterCaption": "Ilustrativní srovnání kuchyně — demonstrační snímky pro portfolio, ne doklad dokončené zakázky.",
+      "challenges": [
+        "Obnovit mokré provozy bez zásahu do celé dispozice bytu.",
+        "Získat více úložného prostoru v kuchyni stejné stopy.",
+        "Sjednotit dvě koupelny do jednoho materiálového jazyka."
+      ],
+      "solutions": [
+        "Přesné přeložení rozvodů ve stávajících jádrech.",
+        "Vysoké skříně až ke stropu a hlubší ostrůvek.",
+        "Společná paleta kamene, dřeva a matných kovů."
+      ]
+    },
+    "byt-holesovice": {
+      "title": "Byt Holešovice",
+      "district": "Holešovice",
+      "location": "Praha 7 — Holešovice",
+      "summary": "Soudobý městský byt s otevřeným denním traktem a klidnými nočními zónami.",
+      "description": "Holešovický byt spojuje otevřený denní trakt s oddělenými ložnicemi a pracovnou. Rekonstrukce zahrnovala nové povrchy, kuchyň, koupelny i úpravy dispozice. Výsledkem je vyvážený interiér — městský, ale měkký, s důrazem na světlo a pohyb.",
+      "heroAlt": "Denní trakt bytu v Holešovicích s jídelním stolem",
+      "gallery": [
+        "Obývací pokoj s velkým oknem",
+        "Otevřená kuchyň navazující na jídelnu",
+        "Hlavní ložnice s textilními závěsy",
+        "Koupelna s dvojitým umyvadlem",
+        "Pracovna s knihovnou"
+      ],
+      "challenges": [
+        "Oddělit noční klid od společenského provozu bytu.",
+        "Zlepšit přirozené prosvětlení hlubší dispozice.",
+        "Zajistit jednotný charakter napříč všemi místnostmi."
+      ],
+      "solutions": [
+        "Jasné zónování a dveřní křídla s dobrou akustikou.",
+        "Prosklené průhledy a světlé kontinuální podlahy.",
+        "Jedna materiálová osa: dřevo, omítka, textil, matný kov."
+      ]
+    }
+  },
+  "InquiryPage": {
+    "eyebrow": "Poptávka",
+    "title": "Nezávazná konzultace rekonstrukce",
+    "intro": "Stručně popište byt a záměr. Formulář ověří validaci a demonstrační odeslání — bez tlaku a bez závazku. Čím přesnější údaje, tím lépe by se připravila první schůzka.",
+    "stepsTitle": "Jak formulář funguje",
+    "steps": {
+      "01": {
+        "title": "Kontrola údajů",
+        "text": "Projde se validace dispozice, typu zásahu a kontaktů."
+      },
+      "02": {
+        "title": "Demonstrační odeslání",
+        "text": "Bez Resend klíče se e-mail neodesílá — uvidíte jasný demo stav."
+      },
+      "03": {
+        "title": "Konzultace (scénář)",
+        "text": "V reálném nasazení by následovala schůzka a návrh dalšího postupu."
+      }
+    },
+    "preferContact": "Preferujete přímý kontakt (ukázkové údaje)?",
+    "demoBanner": "Demonstrační režim: e-mailové odesílání není nakonfigurováno. Formulář ověříte včetně validace, ale poptávka se neodešle."
+  },
+  "InquiryForm": {
+    "renovationType": "Typ rekonstrukce",
+    "renovationTypePlaceholder": "Vyberte možnost",
+    "area": "Podlahová plocha (m²)",
+    "areaPlaceholder": "např. 72",
+    "location": "Lokalita projektu",
+    "locationPlaceholder": "např. Praha 2 — Vinohrady",
+    "budget": "Orientační rozpočet",
+    "budgetPlaceholder": "např. 1,2–1,5 mil. Kč",
+    "startDate": "Předpokládaný termín zahájení",
+    "startDatePlaceholder": "např. jaro 2027",
+    "description": "Popis projektu",
+    "descriptionPlaceholder": "Stručně popište stav bytu, cíle rekonstrukce a důležité detaily.",
+    "fullName": "Jméno a příjmení",
+    "email": "E-mail",
+    "phone": "Telefon",
+    "phonePlaceholder": "+420 …",
+    "consent": "Souhlasím se zpracováním osobních údajů za účelem vyřízení této poptávky. Údaje neukládáme do databáze — slouží pouze k odpovědi na váš dotaz.",
+    "consentHint": "Souhlas je povinný pro odeslání formuláře.",
+    "honeypot": "Webová stránka",
+    "requiredNote": "Pole označená * jsou povinná. Odesláním nevzniká žádný závazek.",
+    "submit": "Odeslat poptávku",
+    "submitting": "Odesílám…",
+    "types": {
+      "complete": "Kompletní rekonstrukce",
+      "partial": "Částečná rekonstrukce",
+      "kitchen_bath": "Koupelna / kuchyně",
+      "other": "Jiné"
+    }
+  },
+  "InquiryErrors": {
+    "renovationType": "Vyberte typ rekonstrukce.",
+    "area": "Zadejte kladné číslo plochy v m².",
+    "areaMax": "Zadejte realistickou plochu bytu (max. 2000 m²).",
+    "location": "Zadejte lokalitu projektu.",
+    "fullName": "Zadejte jméno a příjmení.",
+    "email": "Zadejte platný e-mail.",
+    "phone": "Zadejte platné telefonní číslo, nebo pole nechte prázdné.",
+    "description": "Popis je příliš dlouhý (max. 4000 znaků).",
+    "budget": "Rozpočet je příliš dlouhý.",
+    "startDate": "Termín je příliš dlouhý.",
+    "consent": "Pro odeslání je nutný souhlas se zpracováním údajů.",
+    "invalidRequest": "Neplatný formát požadavku.",
+    "missingData": "Chybí data formuláře.",
+    "checkFields": "Zkontrolujte prosím zvýrazněná pole.",
+    "submitFailed": "Poptávku se nepodařilo odeslat. Zkuste to prosím znovu, nebo napište na ahoj@forma.studio.",
+    "networkError": "Nepodařilo se spojit se serverem. Zkontrolujte připojení a zkuste to znovu.",
+    "form": "Odeslání selhalo."
+  },
+  "InquiryStatus": {
+    "ignored": "Požadavek byl přijat. Žádný e-mail se neodesílá.",
+    "demo": "Formulář funguje v demonstračním režimu. E-mailové odesílání není nakonfigurováno — poptávka nebyla odeslána.",
+    "error": "Poptávku se nepodařilo odeslat. Zkuste to prosím znovu, nebo napište na ahoj@forma.studio.",
+    "sent": "Poptávka byla odeslána. Ozveme se vám co nejdříve e-mailem."
+  },
+  "Demo": {
+    "notice": "Demonstrační obsah: fotografie jsou licencované stock snímky interiérů. Nejde o dokumentaci skutečných zakázek studia FORMA."
+  }
+}

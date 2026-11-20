@@ -1,0 +1,425 @@
+{
+  "Meta": {
+    "homeTitle": "FORMA. — Apartment renovations in Prague",
+    "homeDescription": "A demonstration FORMA. website — sample apartment renovations in Prague from concept to turnkey handover.",
+    "homeOgDescription": "A demonstration portfolio: a space you want to live in. Complete apartment renovations from design to handover.",
+    "portfolioTitle": "Projects — FORMA.",
+    "portfolioDescription": "Demonstration apartment renovation projects in Prague. FORMA. studio portfolio.",
+    "inquiryTitle": "Enquiry — FORMA.",
+    "inquiryDescription": "A demonstration renovation enquiry form. Describe a sample project and test validation — email sending is optional.",
+    "projectTitle": "{title} — FORMA.",
+    "notFoundTitle": "Page not found — FORMA."
+  },
+  "Common": {
+    "brandHome": "FORMA. Home",
+    "consultation": "Consultation",
+    "consultationLong": "No-obligation consultation",
+    "demoNotice": "Demonstration content: photographs are licensed stock interiors. They are not documentation of completed FORMA commissions.",
+    "optional": "optional",
+    "requiredMark": "*",
+    "backToPortfolio": "Back to projects",
+    "viewAllProjects": "All projects",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "mainNav": "Main navigation",
+    "mobileNav": "Mobile navigation",
+    "languageSwitcher": "Language selection",
+    "currentLanguage": "current language",
+    "skipToContent": "Skip to content"
+  },
+  "Nav": {
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Projects",
+    "process": "Process",
+    "contact": "Contact"
+  },
+  "Languages": {
+    "cs": "CZ",
+    "ru": "RU",
+    "en": "EN"
+  },
+  "Hero": {
+    "headline": "A space you want to live in.",
+    "subhead": "Complete apartment renovations in Prague and beyond — from thoughtful design to craftsmanship delivered turnkey.",
+    "ctaPrimary": "Book a meeting",
+    "ctaSecondary": "Browse projects",
+    "scrollDown": "Scroll down",
+    "imageAlt": "Bright living room after renovation with a large window and natural materials"
+  },
+  "About": {
+    "eyebrow": "About the studio",
+    "title": "A renovation atelier focused on the whole.",
+    "intro": "FORMA. began from a simple conviction: a good apartment renovation is more than a list of works — it is a composition of light, materials and everyday movement.",
+    "p1": "We design and deliver renovations of city apartments in Prague and the Central Bohemian Region. Architectural sensitivity meets precise construction coordination so the result feels natural — and lasts.",
+    "p2": "Every project is led personally. From the first survey to handover you have one studio, one team and a clear plan.",
+    "caption": "We work with authentic materials and a calm palette that respects both the building and the lives of its residents.",
+    "imageAlt": "Modern living space with timber surfaces and soft daylight",
+    "stats": {
+      "projects": {
+        "value": "12",
+        "label": "sample apartments"
+      },
+      "years": {
+        "value": "1",
+        "label": "process study"
+      },
+      "contact": {
+        "value": "3",
+        "label": "language versions"
+      }
+    },
+    "statsNote": "Figures illustrate the website presentation — they are not verified references for a real studio."
+  },
+  "Services": {
+    "eyebrow": "Services",
+    "title": "Renovation led from the first sketch to the final detail.",
+    "description": "Four areas in which we hold the whole process — design, material, craft and schedule.",
+    "items": {
+      "kompletni": {
+        "title": "Complete renovation",
+        "description": "From the first survey to turnkey handover. We coordinate trades, timing and details so the build stays calm."
+      },
+      "koupelny": {
+        "title": "Kitchens and bathrooms",
+        "description": "Spatially intelligent solutions with an emphasis on material, light and everyday comfort. Designed and built."
+      },
+      "dispozice": {
+        "title": "Layout changes",
+        "description": "Open plans, new sightlines and a better flow of daylight. We work with the apartment’s architecture, not against it."
+      },
+      "design": {
+        "title": "Design and materials",
+        "description": "Surfaces, colour and atelier-level details that hold the whole together — from floors to handles."
+      }
+    }
+  },
+  "HomePortfolio": {
+    "eyebrow": "Projects",
+    "title": "Spaces that already live their own life.",
+    "description": "Three demonstration projects — different sizes, the same care for detail and atmosphere.",
+    "detailLink": "Project details"
+  },
+  "Process": {
+    "eyebrow": "Process",
+    "title": "Four steps from the first meeting to handover.",
+    "description": "A clear sequence without unnecessary administration. You always know what is happening and why.",
+    "steps": {
+      "01": {
+        "title": "Consultation",
+        "description": "We discuss your ideas, the apartment layout and a realistic budget. Together we set the project direction."
+      },
+      "02": {
+        "title": "Design",
+        "description": "We prepare the layout, materials and a precise works plan. Everything is approved before construction begins."
+      },
+      "03": {
+        "title": "Construction",
+        "description": "Craft teams work to schedule. You have one point of contact and ongoing progress photos."
+      },
+      "04": {
+        "title": "Handover",
+        "description": "We finish the details, carry out checks and hand over an apartment ready to live in — including documentation."
+      }
+    }
+  },
+  "Contact": {
+    "eyebrow": "Contact",
+    "title": "Let’s shape a space that fits you.",
+    "description": "A no-obligation consultation at your home or in our studio. We will discuss layout, budget and possible start dates.",
+    "ctaPrimary": "Send an enquiry",
+    "ctaSecondary": "Write an email",
+    "studioLabel": "Studio",
+    "studioAddress1": "Vodičkova 28",
+    "studioAddress2": "110 00 Prague 1",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email"
+  },
+  "Footer": {
+    "tagline": "A studio for complete apartment renovations. Prague and surroundings — design, delivery and oversight of every detail.",
+    "navLabel": "Navigation",
+    "studioLabel": "Studio",
+    "hours": "Mon–Fri 9:00–18:00",
+    "rights": "© 2026 FORMA. All rights reserved.",
+    "fictional": "A fictional studio for demonstration purposes."
+  },
+  "PortfolioPage": {
+    "eyebrow": "Portfolio",
+    "title": "Our projects",
+    "intro": "A selection of demonstration apartment renovations across Prague — from period tenements to contemporary loft layouts. Each story shows a different type of intervention, with the same focus on the whole, light and detail."
+  },
+  "ProjectPage": {
+    "back": "Back to projects",
+    "about": "About the project",
+    "gallery": "Gallery",
+    "galleryTitle": "Interiors and details",
+    "beforeAfterEyebrow": "Before / after",
+    "beforeAfterTitle": "An illustrative comparison of atmosphere",
+    "beforeLabel": "Before — illustration",
+    "afterLabel": "After — illustration",
+    "challengesEyebrow": "Challenges",
+    "challengesTitle": "What needed solving",
+    "solutionsEyebrow": "Solutions",
+    "solutionsTitle": "How we approached it",
+    "ctaEyebrow": "Consultation",
+    "ctaTitle": "Would you like a similar approach to {title}?",
+    "ctaDescription": "Book a no-obligation consultation. We will discuss layout, materials and a realistic budget frame — with no commitment.",
+    "ctaPrimary": "No-obligation consultation",
+    "ctaSecondary": "Back to projects",
+    "relatedEyebrow": "More projects",
+    "relatedTitle": "Continue browsing",
+    "metaLocation": "Location",
+    "metaType": "Intervention type",
+    "metaArea": "Floor area",
+    "metaYear": "Year (demo)",
+    "yearDemo": "{year} · sample data",
+    "showPhoto": "Show photo {index}: {alt}"
+  },
+  "ProjectTypes": {
+    "complete": "Complete renovation",
+    "layout": "Layout changes",
+    "kitchen_bath": "Kitchens and bathrooms",
+    "design": "Design and materials"
+  },
+  "Projects": {
+    "byt-vinohrady": {
+      "title": "Vinohrady Apartment",
+      "district": "Vinohrady",
+      "location": "Prague 2 — Vinohrady",
+      "summary": "A careful renewal of a period apartment with an open living space and a calm material palette.",
+      "description": "A demonstration of a full apartment renovation in a Vinohrady tenement building. The aim was to keep the character of the original ceilings and windows while creating a contemporary, airy interior for everyday life. The layout opens towards daylight, services are consolidated, and the materials stay restrained — oak, stone and soft plaster.",
+      "heroAlt": "Bright living room in a Vinohrady apartment after renovation",
+      "gallery": [
+        "Open living space with dining table",
+        "Kitchen run with stone worktop",
+        "Bedroom with textile curtains and soft light",
+        "Bathroom with large-format tiling",
+        "Detail of storage and table lighting"
+      ],
+      "beforeAlt": "Illustrative space before adaptation",
+      "afterAlt": "Illustrative atmosphere after adaptation",
+      "beforeAfterCaption": "An illustrative comparison of materials and light — demonstration photography, not documentation of a specific build.",
+      "challenges": [
+        "Preserve original ceiling height with a new floor build-up and concealed services.",
+        "Open the layout without losing acoustic privacy for the bedroom.",
+        "Balance historic building details with contemporary technical standards."
+      ],
+      "solutions": [
+        "Low floor assemblies and carefully routed installations in existing cores.",
+        "A sliding door leaf and gentle zoning with furniture instead of heavy partitions.",
+        "Restored window reveals and unified surfaces in one calm palette."
+      ]
+    },
+    "loft-karlin": {
+      "title": "Karlín Loft",
+      "district": "Karlín",
+      "location": "Prague 8 — Karlín",
+      "summary": "An industrial loft with a warm interior, studio light and carefully concealed technical systems.",
+      "description": "A generous loft in Karlín needed a clearer division of zones: work, rest and social living within one open volume. The design works with height, warm textiles and a contrast of smooth surfaces against the industrial character of the building. Services are hidden; light is composed in layers.",
+      "heroAlt": "Open loft living space in Karlín",
+      "gallery": [
+        "Loft living zone with a high ceiling",
+        "Kitchen island in an open layout",
+        "Sleeping gallery and textile curtains",
+        "Bathroom with a concrete aesthetic",
+        "Work nook with daylight",
+        "Detail of seating and lighting"
+      ],
+      "challenges": [
+        "Tame the acoustics of a large open space.",
+        "Create an intimate sleeping zone without closing the loft entirely.",
+        "Conceal air-conditioning and power distribution."
+      ],
+      "solutions": [
+        "Textile curtains, rugs and acoustic lining on selected walls.",
+        "A semi-open sleeping niche with gently separated light scenes.",
+        "A technical shaft and joinery designed as storage at the same time."
+      ]
+    },
+    "apartman-mala-strana": {
+      "title": "Malá Strana Apartment",
+      "district": "Malá Strana",
+      "location": "Prague 1 — Malá Strana",
+      "summary": "Compact living focused on craft, storage and the atmosphere of a historic house.",
+      "description": "A smaller apartment in the historic centre shows that limited floor area need not mean a compromise in atmosphere. We worked with made-to-measure joinery, light surfaces and a careful rhythm of storage. Every detail has a purpose — and still feels calm.",
+      "heroAlt": "Compact living room of a Malá Strana apartment",
+      "gallery": [
+        "Living zone with built-in bookshelf",
+        "Compact kitchen with storage system",
+        "Bedroom with upholstered headboard",
+        "Bathroom with soft stone finishes"
+      ],
+      "challenges": [
+        "Gain enough storage without visual clutter.",
+        "Keep a sense of airiness in a deep plan.",
+        "Unify different floor levels in a historic building."
+      ],
+      "solutions": [
+        "Full-height wardrobes matched to the wall colour with concealed handles.",
+        "Light surfaces, mirrored planes and continuous flooring.",
+        "Levelled floors and a consistent skirting line throughout."
+      ]
+    },
+    "byt-zizkov": {
+      "title": "Žižkov Apartment",
+      "district": "Žižkov",
+      "location": "Prague 3 — Žižkov",
+      "summary": "A panel-block flat transformed into a bright home with a clear layout and practical kitchen.",
+      "description": "A typical Žižkov apartment received a full renewal: new wet core, kitchen, finishes and lighting. The emphasis was on family daily life, daylight and materials that withstand everyday use. The result is civil, warm and easy to live in.",
+      "heroAlt": "Living room of a Žižkov apartment after full renovation",
+      "gallery": [
+        "Living zone with sofa and table lamp",
+        "Kitchen with dining bar seating",
+        "Bedroom with built-in wardrobes",
+        "Bathroom with walk-in shower",
+        "Hallway with storage furniture"
+      ],
+      "beforeAlt": "Illustrative neutral state before adaptation",
+      "afterAlt": "Illustrative bright interior after adaptation",
+      "beforeAfterCaption": "Illustrative before/after — stock photography for a demonstration portfolio, not a record of a real FORMA build.",
+      "challenges": [
+        "Modernise the wet core within a panel construction.",
+        "Connect kitchen and living room without losing worktop area.",
+        "Ensure proper ventilation for bathroom and kitchen."
+      ],
+      "solutions": [
+        "Lightweight partitions and precise surveying of installations.",
+        "An island and linear run with a continuous worktop.",
+        "Mechanical ventilation connected to the building shafts."
+      ]
+    },
+    "byt-smichov": {
+      "title": "Smíchov Apartment",
+      "district": "Smíchov",
+      "location": "Prague 5 — Smíchov",
+      "summary": "A focused renewal of wet rooms and kitchen with an emphasis on material and daylight.",
+      "description": "The owners wanted to keep the overall layout, but markedly raise the quality of the kitchen and bathrooms. We designed new material compositions, concealed storage and soft lighting. The intervention is concentrated — yet it changes the feel of the whole flat.",
+      "heroAlt": "Kitchen in a Smíchov apartment with stone worktop",
+      "gallery": [
+        "Kitchen run with island",
+        "Main bathroom with bathtub",
+        "Guest bathroom with shower",
+        "Dining nook adjoining the kitchen",
+        "Detail of tapware and stone cladding"
+      ],
+      "beforeAlt": "Illustrative older kitchen character",
+      "afterAlt": "Illustrative contemporary kitchen atmosphere",
+      "beforeAfterCaption": "An illustrative kitchen comparison — demonstration images for the portfolio, not proof of a completed commission.",
+      "challenges": [
+        "Renew wet rooms without altering the whole apartment layout.",
+        "Gain more kitchen storage within the same footprint.",
+        "Unite two bathrooms in one material language."
+      ],
+      "solutions": [
+        "Precise rerouting of services within existing cores.",
+        "Floor-to-ceiling cabinets and a deeper island.",
+        "A shared palette of stone, wood and matte metal."
+      ]
+    },
+    "byt-holesovice": {
+      "title": "Holešovice Apartment",
+      "district": "Holešovice",
+      "location": "Prague 7 — Holešovice",
+      "summary": "A contemporary city apartment with an open daytime wing and calm night zones.",
+      "description": "This Holešovice flat connects an open daytime wing with separate bedrooms and a study. The renovation covered new finishes, kitchen, bathrooms and layout adjustments. The result is a balanced interior — urban yet soft, with an emphasis on light and movement.",
+      "heroAlt": "Daytime wing of a Holešovice apartment with dining table",
+      "gallery": [
+        "Living room with a large window",
+        "Open kitchen adjoining the dining area",
+        "Main bedroom with textile curtains",
+        "Bathroom with double washbasin",
+        "Study with bookshelf"
+      ],
+      "challenges": [
+        "Separate night-time quiet from social activity.",
+        "Improve natural light in a deeper plan.",
+        "Keep a coherent character across every room."
+      ],
+      "solutions": [
+        "Clear zoning and door leaves with good acoustics.",
+        "Glazed views through and continuous light flooring.",
+        "One material axis: wood, plaster, textile, matte metal."
+      ]
+    }
+  },
+  "InquiryPage": {
+    "eyebrow": "Enquiry",
+    "title": "No-obligation renovation consultation",
+    "intro": "Briefly describe the apartment and your intentions. The form validates input and demonstrates submission — without pressure and without obligation.",
+    "stepsTitle": "How the form works",
+    "steps": {
+      "01": {
+        "title": "Data check",
+        "text": "Validation covers layout, intervention type and contact details."
+      },
+      "02": {
+        "title": "Demonstration submit",
+        "text": "Without a Resend key, no email is sent — you will see a clear demo status."
+      },
+      "03": {
+        "title": "Consultation (scenario)",
+        "text": "In a live deployment, a meeting and next steps would follow."
+      }
+    },
+    "preferContact": "Prefer direct contact (sample details)?",
+    "demoBanner": "Demo mode: email sending is not configured. You can test the form and validation, but the enquiry will not be sent."
+  },
+  "InquiryForm": {
+    "renovationType": "Renovation type",
+    "renovationTypePlaceholder": "Select an option",
+    "area": "Floor area (m²)",
+    "areaPlaceholder": "e.g. 72",
+    "location": "Project location",
+    "locationPlaceholder": "e.g. Prague 2 — Vinohrady",
+    "budget": "Indicative budget",
+    "budgetPlaceholder": "e.g. CZK 1.2–1.5 million",
+    "startDate": "Expected start",
+    "startDatePlaceholder": "e.g. spring 2027",
+    "description": "Project description",
+    "descriptionPlaceholder": "Briefly describe the apartment condition, renovation goals and key details.",
+    "fullName": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "phonePlaceholder": "+420 …",
+    "consent": "I agree to the processing of personal data for the purpose of handling this enquiry. We do not store the data in a database — it is used only to reply to your request.",
+    "consentHint": "Consent is required to submit the form.",
+    "honeypot": "Website",
+    "requiredNote": "Fields marked * are required. Submitting creates no obligation.",
+    "submit": "Send enquiry",
+    "submitting": "Sending…",
+    "types": {
+      "complete": "Complete renovation",
+      "partial": "Partial renovation",
+      "kitchen_bath": "Bathroom / kitchen",
+      "other": "Other"
+    }
+  },
+  "InquiryErrors": {
+    "renovationType": "Please select a renovation type.",
+    "area": "Enter a positive floor area in m².",
+    "areaMax": "Enter a realistic apartment area (max. 2000 m²).",
+    "location": "Enter the project location.",
+    "fullName": "Enter your full name.",
+    "email": "Enter a valid email address.",
+    "phone": "Enter a valid phone number, or leave the field empty.",
+    "description": "The description is too long (max. 4000 characters).",
+    "budget": "The budget text is too long.",
+    "startDate": "The start date text is too long.",
+    "consent": "Consent to data processing is required to submit.",
+    "invalidRequest": "Invalid request format.",
+    "missingData": "Form data is missing.",
+    "checkFields": "Please check the highlighted fields.",
+    "submitFailed": "The enquiry could not be sent. Please try again, or write to ahoj@forma.studio.",
+    "networkError": "Could not reach the server. Check your connection and try again.",
+    "form": "Submission failed."
+  },
+  "InquiryStatus": {
+    "ignored": "Request accepted. No email is sent.",
+    "demo": "The form is running in demonstration mode. Email sending is not configured — the enquiry was not sent.",
+    "error": "The enquiry could not be sent. Please try again, or write to ahoj@forma.studio.",
+    "sent": "The enquiry has been sent. We will get back to you by email as soon as possible."
+  },
+  "Demo": {
+    "notice": "Demonstration content: photographs are licensed stock interiors. They are not documentation of completed FORMA commissions."
+  }
+}
