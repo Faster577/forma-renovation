@@ -1,39 +1,62 @@
-# FORMA — Renovation Company Website
+# 🏠 FORMA — Renovation Company Website
 
-A modern, responsive, multilingual website created as a portfolio project for a renovation company in the Czech Republic.
+### Modern, Responsive & Multilingual Business Website
 
-## Live Demo
+FORMA is a modern, responsive website developed as a portfolio project for a renovation company based in the Czech Republic.
 
-[View Live Website](YOUR_WEBSITE_URL)
+The website is designed to showcase renovation services, provide a professional online presence, and make it easy for potential customers to contact the company.
 
-## About the Project
+## 🌐 Live Demo
 
-FORMA is a demonstration business website designed to showcase renovation and interior finishing services.
+**[🚀 View Live Website](https://forma-renovation-jcupmz633-keyflow.vercel.app/cs)**
 
-The project focuses on modern design, clear navigation, mobile responsiveness, and a professional user experience.
+## ✨ Features
 
-## Features
+- 📱 **Responsive Design** — Optimized for desktop, tablet, and mobile devices.
+- 🌍 **Multilingual Support** — Website available in multiple languages.
+- 🎨 **Modern UI/UX** — Clean and professional interface.
+- 🏗️ **Service Presentation** — Clear information about renovation services.
+- 📩 **Contact Options** — Convenient ways for customers to get in touch.
+- ⚡ **Modern Web Technologies** — Built using a modern development workflow.
 
-- Responsive design for desktop and mobile
-- Multilingual website
-- Modern and clean interface
-- Renovation services presentation
-- Easy navigation
-- Contact options
-
-## Technologies
+## 🛠️ Technologies
 
 - Next.js
+- React
 - TypeScript
+- Tailwind CSS
 - Sanity CMS
-- AI-assisted development with Cursor
+- Cursor AI
+- Vercel
 
-## Purpose
+## 🎯 Project Goals
 
-This project was created to demonstrate my web development skills and provide an example of a professional website for small businesses.
+The main goal of this project was to create a professional website that helps renovation businesses:
 
-## Developer
+- Establish a strong online presence.
+- Present their services effectively.
+- Build trust with potential customers.
+- Improve accessibility across devices.
+- Make customer communication easier.
 
-Kirill — Web Developer
+## 💻 Development
 
-GitHub: https://github.com/Faster577
+This website was created using modern web development tools and AI-assisted development with Cursor.
+
+The project demonstrates my ability to build and deploy responsive business websites.
+
+## 📂 Project Repository
+
+**GitHub:** https://github.com/Faster577/forma-renovation
+
+## 👨‍💻 Developer
+
+**Kirill — Web Developer**
+
+I create modern, responsive websites for businesses and individuals.
+
+Open to freelance projects and collaborations.
+
+---
+
+⭐ If you like this project, feel free to give it a star!
