@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# FORMA — Renovation Company Website
 
-## Getting Started
+A modern, responsive, multilingual website created as a portfolio project for a renovation company in the Czech Republic.
 
-First, run the development server:
+## Live Demo
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+[View Live Website](YOUR_WEBSITE_URL)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## About the Project
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+FORMA is a demonstration business website designed to showcase renovation and interior finishing services.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The project focuses on modern design, clear navigation, mobile responsiveness, and a professional user experience.
 
-## Learn More
+## Features
 
-To learn more about Next.js, take a look at the following resources:
+- Responsive design for desktop and mobile
+- Multilingual website
+- Modern and clean interface
+- Renovation services presentation
+- Easy navigation
+- Contact options
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Technologies
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Next.js
+- TypeScript
+- Sanity CMS
+- AI-assisted development with Cursor
 
-## Deploy on Vercel
+## Purpose
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This project was created to demonstrate my web development skills and provide an example of a professional website for small businesses.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Developer
+
+Kirill — Web Developer
+
+GitHub: https://github.com/Faster577
